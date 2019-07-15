@@ -1,3 +1,15 @@
+# environment
+.env/
+
+#vim temps
+*~
+
+#.zip files
+*.zip
+
+#data set
+code/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

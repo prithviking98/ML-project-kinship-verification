@@ -10,6 +10,9 @@
 #data set
 code/data/
 
+#submission directory
+group 32/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
